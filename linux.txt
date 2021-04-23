@@ -1,0 +1,2 @@
+# install homebrew
+https://www.osradar.com/install-homebrew-ubuntu-20-04-debian-10/ 

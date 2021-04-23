@@ -1,0 +1,46 @@
+PS C:\WINDOWS\system32> wsl --list --verbose
+
+    N A M E                                       S T A T E                       V E R S I O N 
+ 
+ *   d o c k e r - d e s k t o p                   R u n n i n g                   2 
+ 
+     U b u n t u - 2 0 . 0 4                       S t o p p e d                   2 
+ 
+     d o c k e r - d e s k t o p - d a t a         R u n n i n g                   2 
+ 
+ 
+
+PS C:\WINDOWS\system32> wslconfig /setdefault Ubuntu
+T h e r e   i s   n o   d i s t r i b u t i o n   w i t h   t h e   s u p p l i e d   n a m e . 
+ 
+ 
+ 
+
+PS C:\WINDOWS\system32> wslconfig /setdefault Ubuntu-20.04
+
+PS C:\WINDOWS\system32> wsl --set-version ubuntu-20.04 1
+C o n v e r s i o n   i n   p r o g r e s s ,   t h i s   m a y   t a k e   a   f e w   m i n u t e s . . . 
+ 
+ 
+ C o n v e r s i o n   c o m p l e t e . 
+
+# Upgraded to WSL 2 to work with docker
+
+ # Used to setup minikube on wsl 
+ https://blog.thepolyglotprogrammer.com/setting-up-kubernetes-on-wsl-to-work-with-minikube-on-windows-10-90dac3c72fa1 
+
+
+ https://hellokube.dev/posts/configure-minikube-ingress-on-wsl2/ 
+
+ 
+
+
+
+
+ ############ FIXES
+ 
+ # DNS 
+ https://gist.github.com/coltenkrauter/608cfe02319ce60facd76373249b8ca6
+
+# CPU limiting
+ https://itnext.io/wsl2-tips-limit-cpu-memory-when-using-docker-c022535faf6f 

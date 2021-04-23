@@ -1,0 +1,34 @@
+# install vscode https://formulae.brew.sh/cask/visual-studio-code
+brew install --cask visual-studio-code 
+
+# yq https://github.com/mikefarah/yq
+brew install yq
+
+# Terraform
+brew install terraform 
+
+# tfswitch https://tfswitch.warrensbox.com/Install/
+brew install warrensbox/tap/tfswitch
+brew install tfenv
+
+# install az cli
+brew install azure-cli
+
+# install docker
+brew install docker
+
+# install minikube
+brew install minikube
+
+# install fuzzy for kubectx kubectl https://github.com/junegunn/fzf#using-homebrew
+brew install fzf
+
+# install kubectx & kubens
+brew install kubectx
+brew install kubens 
+
+# install helm
+brew install helm 
+
+# install fluxctl https://github.com/fluxcd/flux/blob/master/docs/references/fluxctl.md
+brew install fluxctl
