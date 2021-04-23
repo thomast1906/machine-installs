@@ -24,22 +24,22 @@ code --install-extension ms-azuretools.vscode-azurefunctions
 code --install-extension msazurermtools.azurerm-vscode-tools
 
 # https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureresourcegroups 
-code --install extension ms-azuretools.vscode-azureresourcegroups
+code --install-extension ms-azuretools.vscode-azureresourcegroups
 
 # https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureterraform 
-code --install extension ms-azuretools.vscode-azureterraform 
+code --install-extension ms-azuretools.vscode-azureterraform 
 
 # https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-bicep
-code --install extension ms-azuretools.vscode-bicep
+code --install-extension ms-azuretools.vscode-bicep
 
 # https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker
-code --install extension ms-azuretools.vscode-docker
+code --install-extension ms-azuretools.vscode-docker
 
 # https://marketplace.visualstudio.com/items?itemName=waderyan.gitblame 
-code --install extension waderyan.gitblame 
+code --install-extension waderyan.gitblame 
 
 # https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory 
-code --install donjayamanne.githistory 
+code --install-extension donjayamanne.githistory 
 
 # https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml 
-code --install redhat.vscode-yaml 
+code --install-extension redhat.vscode-yaml 
