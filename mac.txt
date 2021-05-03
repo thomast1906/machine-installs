@@ -32,3 +32,6 @@ brew install helm
 
 # install fluxctl https://github.com/fluxcd/flux/blob/master/docs/references/fluxctl.md
 brew install fluxctl
+
+# Sourcetree
+brew install --cask sourcetree
