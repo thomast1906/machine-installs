@@ -35,3 +35,6 @@ brew install fluxctl
 
 # Sourcetree
 brew install --cask sourcetree
+
+# NPM/NodeJS
+brew install node
