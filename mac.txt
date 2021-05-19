@@ -38,3 +38,7 @@ brew install --cask sourcetree
 
 # NPM/NodeJS
 brew install node
+
+# Install mvn (Maven)
+brew install mvn
+
