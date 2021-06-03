@@ -43,3 +43,9 @@ code --install-extension donjayamanne.githistory
 
 # https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml 
 code --install-extension redhat.vscode-yaml 
+
+# https://marketplace.visualstudio.com/items?itemName=marlon407.code-groovy
+code --install-extension marlon407.code-groovy
+
+# https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner 
+code --install-extension formulahendry.code-runner

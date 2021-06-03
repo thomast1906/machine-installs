@@ -42,3 +42,5 @@ brew install node
 # Install mvn (Maven)
 brew install mvn
 
+# install groovy
+ brew install groovy
