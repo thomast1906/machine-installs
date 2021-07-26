@@ -37,4 +37,5 @@ brew install fluxctl
  brew install groovy
  
 # install flux 
-brew install flux
+brew install fluxcd/tap/flux
+
