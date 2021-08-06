@@ -47,3 +47,7 @@ brew install mvn
 
 # Install flux
 brew install fluxcd/tap/flux
+
+# Install kubeval https://kubeval.instrumenta.dev/installation/
+brew tap instrumenta/instrumenta
+brew install kubeval
