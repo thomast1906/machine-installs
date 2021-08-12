@@ -51,3 +51,7 @@ brew install fluxcd/tap/flux
 # Install kubeval https://kubeval.instrumenta.dev/installation/
 brew tap instrumenta/instrumenta
 brew install kubeval
+
+# Install bash-completion https://sourabhbajaj.com/mac-setup/BashCompletion/
+brew install bash-completion
+
