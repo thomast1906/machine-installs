@@ -33,6 +33,10 @@ brew install helm
 # install fluxctl https://github.com/fluxcd/flux/blob/master/docs/references/fluxctl.md
 brew install fluxctl
 
+# install go https://formulae.brew.sh/formula/go
+brew install go
+
+
 # Sourcetree
 brew install --cask sourcetree
 
