@@ -60,5 +60,7 @@ brew install kubeval
 brew install bash-completion
 
 # Add GNU Parralel https://macappstore.org/parallel/ 
-https://formulae.brew.sh/formula/parallel
+# https://formulae.brew.sh/formula/parallel
 
+# Install wget
+brew install wget
