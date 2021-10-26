@@ -39,3 +39,7 @@ brew install fluxctl
 # install flux 
 brew install fluxcd/tap/flux
 
+# Install terraform-docs https://github.com/terraform-docs/terraform-docs
+brew install terraform-docs
+
+
