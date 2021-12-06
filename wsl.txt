@@ -41,6 +41,8 @@ C o n v e r s i o n   i n   p r o g r e s s ,   t h i s   m a y   t a k e   a   
  
  # DNS 
  https://gist.github.com/coltenkrauter/608cfe02319ce60facd76373249b8ca6
+ # further fix for dns
+ https://github.com/microsoft/WSL/issues/4285
 
 # CPU limiting
  https://itnext.io/wsl2-tips-limit-cpu-memory-when-using-docker-c022535faf6f 
