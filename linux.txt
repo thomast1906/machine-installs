@@ -11,11 +11,14 @@ echo "eval \$($(brew --prefix)/bin/brew shellenv)" >>~/.profile
 brew install yq
 
 # Terraform
-brew install terraform 
+#brew install terraform 
 
 # tfswitch https://tfswitch.warrensbox.com/Install/
 brew install warrensbox/tap/tfswitch
 brew install tfenv
+
+# Before you can use tfswitch with terraform command - below will allow you to use terraform commands
+sudo cp /home/tamops/bin/terraform /usr/local/bin/ 
 
 # install az cli
 brew install azure-cli
