@@ -51,4 +51,7 @@ brew install fluxcd/tap/flux
 # Install terraform-docs https://github.com/terraform-docs/terraform-docs
 brew install terraform-docs
 
-
+# install inspec 
+# https://mitre-inspec-developer.netlify.app/installation/linuxinstall.html
+apt-get -y install ruby ruby-dev gcc g++ make
+gem install inspec
