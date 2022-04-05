@@ -1,3 +1,9 @@
+#ignore ssl if needed
+#https://stackoverflow.com/questions/57629010/linuxbrew-curl-certificate-issue
+echo insecure >> ~/.curlrc
+HOMEBREW_CURLRC=1
+export HOMEBREW_CURLRC
+
 # install homebrew
 # https://www.osradar.com/install-homebrew-ubuntu-20-04-debian-10/ 
 sudo apt-get install build-essential curl file git
