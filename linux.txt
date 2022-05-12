@@ -61,3 +61,9 @@ brew install terraform-docs
 # https://mitre-inspec-developer.netlify.app/installation/linuxinstall.html
 apt-get -y install ruby ruby-dev gcc g++ make
 gem install inspec
+
+# install Pluto
+# https://github.com/FairwindsOps/pluto  
+brew install FairwindsOps/tap/pluto
+
+
