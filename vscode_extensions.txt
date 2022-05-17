@@ -49,3 +49,7 @@ code --install-extension marlon407.code-groovy
 
 # https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner 
 code --install-extension formulahendry.code-runner
+
+# GitHub CoPilot
+# https://marketplace.visualstudio.com/items?itemName=GitHub.copilot
+code --install-extension GitHub.copilot
