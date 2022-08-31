@@ -69,3 +69,7 @@ brew install FairwindsOps/tap/pluto
 # install pre-commit
 # https://pre-commit.com/
 brew install pre-commit
+
+# install aztfy
+# https://github.com/Azure/aztfy 
+brew install aztfy
