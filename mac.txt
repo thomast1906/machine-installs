@@ -67,3 +67,6 @@ brew install wget
 
 # Install terraform-docs https://github.com/terraform-docs/terraform-docs
 brew install terraform-docs
+
+# install rectangle
+# https://rectangleapp.com/
