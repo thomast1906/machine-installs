@@ -1,72 +1,46 @@
-# install vscode https://formulae.brew.sh/cask/visual-studio-code
-brew install --cask visual-studio-code 
+# https://github.com/Azure/aztfy
+brew install aztfy
 
-# yq https://github.com/mikefarah/yq
-brew install yq
-
-# Terraform
-brew install terraform 
-
-# tfswitch https://tfswitch.warrensbox.com/Install/
+# https://tfswitch.warrensbox.com/Install/
 brew install warrensbox/tap/tfswitch
 brew install tfenv
 
-# install az cli
-brew install azure-cli
+# https://formulae.brew.sh/cask/visual-studio-code
+brew install --cask visual-studio-code 
 
-# install docker
-brew install docker
-
-# install minikube
-brew install minikube
-
-# install fuzzy for kubectx kubectl https://github.com/junegunn/fzf#using-homebrew
-brew install fzf
-
-# install kubectx & kubens
-brew install kubectx
-brew install kubens 
-
-# install helm
-brew install helm 
-
-# install fluxctl https://github.com/fluxcd/flux/blob/master/docs/references/fluxctl.md
-brew install fluxctl
-
-# install go https://formulae.brew.sh/formula/go
-brew install go
-
-
-# Sourcetree
-brew install --cask sourcetree
-
-# NPM/NodeJS
-brew install node
-
-# Install mvn (Maven)
-brew install mvn
-
-# install groovy
- brew install groovy
-
-# Install flux
-brew install fluxcd/tap/flux
-
-# Install kubeval https://kubeval.instrumenta.dev/installation/
-brew tap instrumenta/instrumenta
-brew install kubeval
-
-# Install bash-completion https://sourabhbajaj.com/mac-setup/BashCompletion/
-brew install bash-completion
-
-# Add GNU Parralel https://macappstore.org/parallel/ 
-# https://formulae.brew.sh/formula/parallel
-
-# Install wget
-brew install wget
-
-# Install terraform-docs https://github.com/terraform-docs/terraform-docs
-brew install terraform-docs
+# https://github.com/mikefarah/yq
+brew install yq
 
 # install rectangle
 # https://rectangleapp.com/
+
+# https://docs.microsoft.com/en-us/cli/azure/install-azure-cli-macos
+brew install azure-cli
+
+# https://formulae.brew.sh/formula/fzf 
+brew install fzf
+
+# https://formulae.brew.sh/formula/grep#default
+brew install grep
+
+# https://formulae.brew.sh/formula/kubectx#default 
+brew install kubectx
+
+
+# https://formulae.brew.sh/formula/pre-commit#default 
+brew install pre-commit 
+
+# https://formulae.brew.sh/formula/helm#default 
+brew install helm 
+
+# https://formulae.brew.sh/formula/kubernetes-cli#default 
+brew install kubernetes-cli 
+
+# https://formulae.brew.sh/formula/terraform-docs#default 
+brew install terraform-docs 
+
+# https://formulae.brew.sh/formula/flux#default 
+brew install flux 
+
+# https://pluto.docs.fairwinds.com/installation/#asdf 
+brew install FairwindsOps/tap/pluto
