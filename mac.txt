@@ -44,3 +44,6 @@ brew install flux
 
 # https://pluto.docs.fairwinds.com/installation/#asdf 
 brew install FairwindsOps/tap/pluto
+
+# https://formulae.brew.sh/cask/sourcetree 
+brew install --cask sourcetree
