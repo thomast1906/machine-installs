@@ -47,3 +47,6 @@ brew install FairwindsOps/tap/pluto
 
 # https://formulae.brew.sh/cask/sourcetree 
 brew install --cask sourcetree
+
+# https://formulae.brew.sh/formula/azcopy
+brew install azcopy 
