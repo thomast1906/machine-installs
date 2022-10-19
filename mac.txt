@@ -50,3 +50,6 @@ brew install --cask sourcetree
 
 # https://formulae.brew.sh/formula/azcopy
 brew install azcopy 
+
+# https://formulae.brew.sh/formula/rbenv
+brew install rbenv
