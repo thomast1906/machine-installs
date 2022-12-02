@@ -53,3 +53,6 @@ brew install azcopy
 
 # https://formulae.brew.sh/formula/rbenv
 brew install rbenv
+
+# https://formulae.brew.sh/formula/yamllint
+brew install yamllint
