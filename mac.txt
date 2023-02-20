@@ -13,6 +13,7 @@ brew install yq
 
 # install rectangle
 # https://rectangleapp.com/
+brew install --cask rectangle
 
 # https://docs.microsoft.com/en-us/cli/azure/install-azure-cli-macos
 brew install azure-cli
